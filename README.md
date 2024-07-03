@@ -1,3 +1,5 @@
+![1](https://github.com/pabloWIB/ESTATICA-80-On-Off/assets/116923433/c669116d-6c0a-4f05-a042-9e87accc6d15)
+
 <h2 align="center">Diseño Figma: <a href="">Maquetado en Figma</a></h2>
 
 <h2 align="center">Página: <a href=""></a><span>Aún no disponible</span></h2>
